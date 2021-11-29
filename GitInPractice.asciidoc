@@ -5,3 +5,4 @@ Git In Practice makes Git In Perfect
 // TODO Is this funny?
 this line added to test git push and pull
 this line added to test a fetch operation
+preparing for a merge to the master branch
